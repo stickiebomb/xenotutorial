@@ -1,0 +1,35 @@
+For PC:
+
+how to exploit/mod roblox:
+
+Step 1:
+
+https://www.xeno.now/download << go here and it will give you multiple options, make sure to click work.ink << select new ui
+
+Step 2:
+
+it might ask you to click a button to verify, after that, wait 10 seconds and click watch an ad, scroll down again and click the button again << it might ask you to install opera gx << get opera gx
+<< uninstall it after you get the exe file that it gives you
+
+Step 3:
+
+<< note: you do NOT need to disable antivirus or actually give them any info
+
+<< sync your account (multiple tutorials on youtube)
+
+<< open your roblox client
+
+<< find a gui script to run (you can usually find these on github or on discord servers, but just be safe)
+
+<< join a game, and run the script (NOTE: IT MIGHT NOT BE SAFE OR IT MIGHT NOT WORK)
+
+The End!!
+
+I hope you enjoyed this tutorial and you can mod your roblox games.
+
+For IOS/Android:
+
+from what i know, you cannot get xeno on android.
+you can try to get a mobile executor, but most of the time it will be a virus.
+
+STAY SAFE!!
