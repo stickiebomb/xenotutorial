@@ -1,6 +1,6 @@
 its up to you if you want to mod roblox or not, but i'd say its pretty fun.
 PLEASE DO NOT RUIN GAMES, IT IS AGAINST TOS.
 friendly hacking is fine, though.
-(note: this is not a virus.)
+(note: this is not malware, you can check on multiple websites.)
 
 enjoy! :3 
