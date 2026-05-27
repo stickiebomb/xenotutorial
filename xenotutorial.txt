@@ -40,3 +40,5 @@ DEBUG/EXTRAS!!
 >> Debug #2 >> "I think it gave me malware" >> don't panic, it might just be outdated, but its always good to use a website such as virustotal.
 
 >> Debug #3 >> "Xeno won't open" >> Try redownloading it.
+
+>> Extra #1 >> "I can't find a keyless script" >> try looking up a FE showcase by a trusted youtuber (note: a lot of scripts are outdated)
